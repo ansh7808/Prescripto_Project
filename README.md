@@ -15,7 +15,7 @@ Prescripto is an online doctor appointment booking platform where users can book
 - **Appointment Status Updates** : Doctors can update appointment statuses, and patients can cancel bookings if needed. This keeps all stakeholders informed and ensures efficient management of consultations.
 
 # Project UI
-![Image](https://github.com/user-attachments/assets/08219cb3-f9ef-4978-9f9f-339021aa7ad5)
-![Image](https://github.com/user-attachments/assets/e3258ca7-9af6-4b74-9113-9bbaba39d8b3)
-![Image](https://github.com/user-attachments/assets/379eaeac-b1f6-4847-b484-489ee8d1a87c)
-![Image](https://github.com/user-attachments/assets/3bdc0c79-dbaf-4635-baa3-fc37f9375508)
+![Image](https://github.com/user-attachments/assets/cfb97a15-5e2d-42e1-bc39-62d49c87118d)
+![Image](https://github.com/user-attachments/assets/9d663cd0-c8a1-45e0-8ac0-16940252b654)
+![Image](https://github.com/user-attachments/assets/8fd121f2-f568-463d-8504-367a7d090bf4)
+![Image](https://github.com/user-attachments/assets/059fbaba-3e68-4110-a7d8-779a956126a5)
