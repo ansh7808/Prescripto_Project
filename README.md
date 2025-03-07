@@ -13,3 +13,6 @@ Prescripto is an online doctor appointment booking platform where users can book
 - **Admin Dashboard**: Admins have a dashboard to oversee the entire system. They can view the total number of doctors, patients, and appointments.
 - **Doctor Management by Admin** : Admins can add new doctors to the system and assign them specialties. They control doctor availability by setting their consultation schedules, ensuring proper time management.
 - **Appointment Status Updates** : Doctors can update appointment statuses, and patients can cancel bookings if needed. This keeps all stakeholders informed and ensures efficient management of consultations.
+
+# Project UI
+![Image](https://github.com/user-attachments/assets/08219cb3-f9ef-4978-9f9f-339021aa7ad5)
